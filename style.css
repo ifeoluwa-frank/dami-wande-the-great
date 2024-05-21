@@ -4,9 +4,6 @@
   box-sizing: border-box;
 }
 
-.main-container {
-}
-
 header {
   display: flex;
   justify-content: space-between;
@@ -34,9 +31,6 @@ a {
 main {
   max-width: 1250px;
   margin: auto;
-}
-
-.home {
 }
 
 .fragrances {
